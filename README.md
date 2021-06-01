@@ -12,7 +12,7 @@
 
 Here are some ideas to get you started:
 -->
- - 🔭 I’m currently working Project Engineer .
+ - 🔭 I’m currently working as Project Engineer .
  - 🌱 I,m currently learning Deep Learing and NLP.
  - 👯 looking to collaborate on various open-sourced Machine Learning, Deep Learning, and Natural Language Processing case studies and projects!
  - 💬 Ask me about any thing on Python, Machine Learning, Deep Learing. 
