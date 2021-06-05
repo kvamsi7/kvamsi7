@@ -5,7 +5,7 @@
 </div>
 
 
-### I'm a Machine Learning Engineer, AI Enthusiast ,Techie and Photographer..
+### So far...I'm a Machine Learning Engineer ..
 
 <!--
 **kvamsi7/kvamsi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
