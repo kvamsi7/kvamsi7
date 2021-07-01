@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Vamsi Krishna Katam 
+### Hello World !👋 
 
-<div>
+<!-- <div>
  <img align = 'right' alt = 'GIF' height = '300px' src = 'https://media1.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=790b7611456ef8191e8b5bf39c59402aa2b6c29da804f1f0&rid=giphy.gif&ct=g'>
-</div>
+</div> -->
 
 
 ### So far...I'm a Machine Learning Engineer ..
@@ -13,7 +13,7 @@
 Here are some ideas to get you started:
 -->
  - 🔭 I’m currently working as Project Engineer .
- - 🌱 I,m currently learning Deep Learing and NLP.
+ - 🌱 currently learning Deep Learing and NLP..
  - 👯 looking to collaborate on various open-sourced Machine Learning, Deep Learning, and Natural Language Processing case studies and projects!
  - 💬 Ask me about any thing on Python, Machine Learning, Deep Learing. 
 <!--
