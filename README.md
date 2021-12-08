@@ -12,11 +12,11 @@
 
 Here are some ideas to get you started:
 -->
- - 🔭 I’m currently working as Project Engineer .
- - 🌱 currently learning Deep Learing and NLP..
- - 👯 looking to collaborate on various open-sourced Machine Learning, Deep Learning, and Natural Language Processing case studies and projects!
- - 💬 Ask me about any thing on Python, Machine Learning, Deep Learing. 
+ - 🔭 working as Senior Engineer.
+ - 💬 Ask me about any thing on Machine Learning, Deep Learing, Python. 
 <!--
+- 👯 looking to collaborate on various open-sourced Machine Learning, Deep Learning, and Natural Language Processing case studies and projects!
+- 🌱 currently learning Deep Learing and NLP..
  - 🤔 I’m looking for help with ... 
  - 📫 How to reach me: ...
  - 😄 Pronouns: ...
