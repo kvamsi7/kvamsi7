@@ -12,7 +12,8 @@
 
 Here are some ideas to get you started:
 -->
- - 🔭 working as Senior Engineer.
+ - Ex-SRIB
+ - 🔭 worked as Senior Engineer.
  - 💬 Ask me about any thing on Machine Learning, Deep Learing,Natural Language Processing, Python. 
 <!--
 - 👯 looking to collaborate on various open-sourced Machine Learning, Deep Learning, and Natural Language Processing case studies and projects!
