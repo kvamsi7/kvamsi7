@@ -49,7 +49,7 @@ Check out my detailed resume for a deeper look into my professional experience, 
 Feel free to reach out to me for collaborations, open-source contributions, or simply to chat about the latest in AI/ML and NLP!
 
 - [LinkedIn](https://www.linkedin.com/in/katam-vamsi-krishna)
-- [Twitter](https://twitter.com/kvamsi7)
+- [Twitter](https://twitter.com/@vk84351)
 - [Email](mailto:vamsikrishna.katamreddy@gmail.com)
 
 ---
