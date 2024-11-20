@@ -42,13 +42,13 @@ Below are some of the key projects I’ve worked on:
 
 Check out my detailed resume for a deeper look into my professional experience, education, and achievements.
 
-- [Resume PDF](https://www.linkedin.com/in/kvamsi)
+- [Resume PDF](https://www.linkedin.com/in/katam-vamsi-krishna)
 
 ## 🌐 Connect With Me
 
 Feel free to reach out to me for collaborations, open-source contributions, or simply to chat about the latest in AI/ML and NLP!
 
-- [LinkedIn](https://www.linkedin.com/in/kvamsi)
+- [LinkedIn](https://www.linkedin.com/in/katam-vamsi-krishna)
 - [Twitter](https://twitter.com/kvamsi)
 - [Email](mailto:kvamsi@example.com)
 
