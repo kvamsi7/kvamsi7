@@ -26,16 +26,20 @@ Here are some of the tools and technologies I've worked with:
 
 Below are some of the key projects I’ve worked on:
 
-### 1. [Credit Risk Assistant](#)
+### 1. [Kidney Disease Classification Using Deep Learning]([#](https://github.com/kvamsi7/kidney-disease-classification-dl-project))
+This project implements a deep learning-based system for the classification of kidney diseases using medical imaging. Built to assist healthcare professionals, the solution leverages convolutional neural networks (CNNs) to analyze and classify images efficiently and accurately.
+
+### 2. [Credit Risk Assistant]([#](https://github.com/kvamsi7/ML-portfolio/tree/prj1/Acess%20Credit%20risk%20-%20AWS%20deployment))
    A machine learning-driven web application built to predict and assess credit risk for loan applications. Deployed on AWS for scalable, real-time predictions.
 
-### 2. [Intelligent Ticket Routing System](#)
+### 3. [Intelligent Ticket Routing System](#)
    An automated ticket routing system utilizing machine learning algorithms to classify and route tickets to appropriate departments without human intervention.
 
-### 3. Voice Assistant Enhancements
+
+### 4. Voice Assistant Enhancements
    Contributed to the development of a voice assistant (like **Bixby**) with enhanced NLP features such as better response retrieval, automated backlog reports, and reduced speech recognition errors.
 
-### 4. Chatbot using Transformers
+### 5. Chatbot using Transformers
    A conversational AI chatbot built using Transformer models to handle human-like interactions. Trained and fine-tuned to respond to user queries.
 
 ## 📄 Resume
