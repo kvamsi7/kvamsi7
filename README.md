@@ -29,7 +29,7 @@ Below are some of the key projects I’ve worked on:
 ### 1. [Kidney Disease Classification Using Deep Learning](https://github.com/kvamsi7/kidney-disease-classification-dl-project)
 This project implements a deep learning-based system for the classification of kidney diseases using medical imaging. Built to assist healthcare professionals, the solution leverages convolutional neural networks (CNNs) to analyze and classify images efficiently and accurately.
 
-### 2. [Evaluating CoT on reasoning: Exploration and paper Implementation](https://github.com/kvamsi7/llm_cot_research)
+### 2. [Evaluating CoT on LLMs reasoning : Exploration and paper Implementation](https://github.com/kvamsi7/llm_cot_research)
 This research works is of an in-depth exploration of Chain of Thought (CoT) reasoning in Large Language Models (LLMs), focusing on its impact on solving complex reasoning tasks. The project leverages the GSM8k benchmark dataset and includes experiments with zero-shot and few-shot CoT approaches, along with the Majority Vote strategy for output reliability.
 
 ### 3. [Credit Risk Assistant](https://github.com/kvamsi7/ML-portfolio/tree/prj1/Acess%20Credit%20risk%20-%20AWS%20deployment)
