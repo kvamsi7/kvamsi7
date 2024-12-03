@@ -32,10 +32,10 @@ This project implements a deep learning-based system for the classification of k
 ### 2. [Evaluating CoT on reasoning: Exploration and paper Implementation](https://github.com/kvamsi7/llm_cot_research)
 This research works is of an in-depth exploration of Chain of Thought (CoT) reasoning in Large Language Models (LLMs), focusing on its impact on solving complex reasoning tasks. The project leverages the GSM8k benchmark dataset and includes experiments with zero-shot and few-shot CoT approaches, along with the Majority Vote strategy for output reliability.
 
-### 2. [Credit Risk Assistant](https://github.com/kvamsi7/ML-portfolio/tree/prj1/Acess%20Credit%20risk%20-%20AWS%20deployment)
+### 3. [Credit Risk Assistant](https://github.com/kvamsi7/ML-portfolio/tree/prj1/Acess%20Credit%20risk%20-%20AWS%20deployment)
    A machine learning-driven web application built to predict and assess credit risk for loan applications. Deployed on AWS for scalable, real-time predictions.
 
-### 3. [Document Classifier](https://github.com/kvamsi7/ML-portfolio/tree/prj1/Document%20classification)
+### 4. [Document Classifier](https://github.com/kvamsi7/ML-portfolio/tree/prj1/Document%20classification)
    An automated ticket routing system utilizing machine learning algorithms to classify and route tickets to appropriate departments without human intervention.
 
 <!-- ### 4. Chatbot using Transformers
