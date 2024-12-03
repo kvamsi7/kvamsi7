@@ -26,10 +26,10 @@ Here are some of the tools and technologies I've worked with:
 
 Below are some of the key projects I’ve worked on:
 
-### 1. [Kidney Disease Classification Using Deep Learning]([#](https://github.com/kvamsi7/kidney-disease-classification-dl-project))
+### 1. [Kidney Disease Classification Using Deep Learning](https://github.com/kvamsi7/kidney-disease-classification-dl-project)
 This project implements a deep learning-based system for the classification of kidney diseases using medical imaging. Built to assist healthcare professionals, the solution leverages convolutional neural networks (CNNs) to analyze and classify images efficiently and accurately.
 
-### 2. [Credit Risk Assistant]([#](https://github.com/kvamsi7/ML-portfolio/tree/prj1/Acess%20Credit%20risk%20-%20AWS%20deployment))
+### 2. [Credit Risk Assistant](https://github.com/kvamsi7/ML-portfolio/tree/prj1/Acess%20Credit%20risk%20-%20AWS%20deployment)
    A machine learning-driven web application built to predict and assess credit risk for loan applications. Deployed on AWS for scalable, real-time predictions.
 
 ### 3. [Intelligent Ticket Routing System](#)
