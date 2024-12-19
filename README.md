@@ -9,7 +9,7 @@ I'm **Katam Vamsi Krishna**, a passionate **Machine Learning Engineer**. My prim
 - **Current Focus**: Specializing in **Large Language Models (LLMs)** and their applications in NLP, text generation, and dialogue systems.
 - **Experience**: 4 years working with a range of machine learning algorithms, data pipelines, and cloud-based ML deployment.
 - **Tech Stack**: Python, TensorFlow, PyTorch, Scikit-learn, AWS, SQL, Git, Flask and more.
-- **Passion**: I’m passionate about molding the problem into solution with the possible way and in specific of AI/ML driven solutions .
+- **Passion**: I am passionate about transforming problems into solutions, particularly through AI/ML-driven approaches.
 
 ## 🛠️ Technologies & Tools
 
