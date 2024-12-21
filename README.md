@@ -7,20 +7,22 @@ I'm **Katam Vamsi Krishna**, a passionate **Machine Learning Engineer**. My prim
 ## 🔍 About Me
 
 - **Current Focus**: Specializing in **Large Language Models (LLMs)** and their applications in NLP, text generation, and dialogue systems.
-- **Experience**: 4 years working with a range of machine learning algorithms, data pipelines, and cloud-based ML deployment.
+- **Experience**: Experience: Over 4 years of hands-on experience designing, building, and deploying machine learning solutions. This includes implementing end-to-end ML pipelines, optimizing models for real-time applications, and deploying scalable solutions on cloud platforms. My journey combines professional expertise with practical exposure from independent projects during my master's studies, where I developed applications like sentiment analysis systems, GAN-based image generators, disease detection models, LLMs fine tuning, research on mechanistic Interpretability of LLMs. These experiences have honed my skills in delivering impactful, production-grade solutions tailored to diverse business and research needs.
 - **Tech Stack**: Python, TensorFlow, PyTorch, Scikit-learn, AWS, SQL, Git, Flask and more.
-- **Passion**: I am passionate about transforming problems into solutions, particularly through AI/ML-driven approaches.
+- **Passion**: I am deeply committed to leveraging advanced AI and machine learning methodologies to develop innovative solutions that address complex challenges and drive meaningful outcomes. My approach is rooted in a strong foundation of research and practical application, ensuring robust and scalable results.
 
 ## 🛠️ Technologies & Tools
 
 Here are some of the tools and technologies I've worked with:
 
-- **Programming Languages**: Python, JavaScript, SQL, C, C++
-- **Machine Learning & Data Science**: TensorFlow, PyTorch, Scikit-learn, Pandas, Numpy
-- **Natural Language Processing**: Named Entity Recognition (NER), Topic Modeling, Sentiment Analysis, Transformers
-- **Cloud & Deployment**: AWS (EC2, S3), Docker, Vertex AI
-- **Web Development**: React, Flask, FastAPI
-- **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau
+- **Programming Languages**: Python, JavaScript, SQL, C, C++, R  
+- **Machine Learning & Data Science**: TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy, SciPy  
+- **Natural Language Processing (NLP)**: Transformers, BERT, GPT, Named Entity Recognition (NER), Topic Modeling, Sentiment Analysis, Text Summarization  
+- **Cloud Platforms & Deployment**: AWS (EC2, S3, Lambda), Google Cloud (Vertex AI, BigQuery), Docker, Kubernetes, MLFlow  
+- **Web Development**: React, Flask, FastAPI, Django  
+- **Big Data & Data Engineering**: Spark, Hadoop, DVC, Airflow  
+- **Data Visualization & BI Tools**: Matplotlib, Seaborn, Plotly, Tableau, Power BI  
+- **Version Control & CI/CD**: Git, GitHub Actions, Jenkins, GitLab CI/CD  
 
 ## 🚀 Projects and Research Interest
 
