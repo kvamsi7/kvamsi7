@@ -1,5 +1,3 @@
-# Welcome!
-
 Hi there! 👋
 
 I'm **Katam Vamsi Krishna**, a passionate **Machine Learning Engineer**. My primary areas of expertise include **Machine Learning (ML)**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**. I am constantly exploring new technologies to solve complex real-world problems and improve user experiences through automation, optimization, and predictive modeling.
