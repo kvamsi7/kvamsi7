@@ -13,11 +13,12 @@ I'm **Katam Vamsi Krishna**, a passionate **Machine Learning Engineer**. My prim
 
 Here are some of the tools and technologies I've worked with:
 
-- **Programming Languages**: Python, JavaScript, SQL, C, C++, R  
+- **Programming Languages**: Python, JavaScript, C++, R  
 - **Machine Learning & Data Science**: TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy, SciPy  
 - **Natural Language Processing (NLP)**: Transformers, BERT, GPT, Named Entity Recognition (NER), Topic Modeling, Sentiment Analysis, Text Summarization  
 - **Cloud Platforms & Deployment**: AWS (EC2, S3, Lambda), Google Cloud (Vertex AI, BigQuery), Docker, Kubernetes, MLFlow  
-- **Web Development**: React, Flask, FastAPI, Django  
+- **Web Development**: React, Flask, FastAPI, Django
+- **Databases & Retrieval**: SQL, FAISS, Chroma, ElasticSearch, Neo4j, Mongodb
 - **Big Data & Data Engineering**: Spark, Hadoop, DVC, Airflow  
 - **Data Visualization & BI Tools**: Matplotlib, Seaborn, Plotly, Tableau, Power BI  
 - **Version Control & CI/CD**: Git, GitHub Actions, Jenkins, GitLab CI/CD  
