@@ -1,4 +1,4 @@
-Hi there! 👋
+Hi there! 👋 
 
 I'm **Katam Vamsi Krishna**, a passionate **Machine Learning Engineer**. My primary areas of expertise include **Machine Learning (ML)**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**. I am constantly exploring new technologies to solve complex real-world problems and improve user experiences through automation, optimization, and predictive modeling.
 
@@ -72,5 +72,7 @@ Feel free to reach out to me for collaborations, open-source contributions, or s
 - [Email](mailto:vamsikrishna.katamreddy@gmail.com)
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kvamsi7&label=Profile%20views&color=0e75b6&style=flat" alt="vamsi-krishna-katam" /> </p>
+
 
 Thank you for visiting my GitHub! I’m always open to learning new things and collaborating on exciting projects. 🚀
