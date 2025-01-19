@@ -57,11 +57,11 @@ Built a feedforward neural network using PyTorch to predict breast cancer based 
 <!-- ### 4. Chatbot using Transformers
    A conversational AI chatbot built using Transformer models to handle human-like interactions. Trained and fine-tuned to respond to user queries. -->
 
-## 📄 Resume
+<!-- ## 📄 Resume
 
 Check out my detailed resume for a deeper look into my professional experience, education, and achievements.
 
-- [Resume PDF](https://www.linkedin.com/in/katam-vamsi-krishna)
+- [Resume PDF](https://www.linkedin.com/in/katam-vamsi-krishna) -->
 
 ## 🌐 Connect With Me
 
