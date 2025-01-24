@@ -27,6 +27,9 @@ Here are some of the tools and technologies I've worked with:
 
 Below are some of the key projects I’ve worked on:
 
+<!-- ###   {Q&A Chatbot]
+This Project is part of the Generative AI stack. -->
+
 ### 1. [Kidney Disease Classification Using Deep Learning](https://github.com/kvamsi7/kidney-disease-classification-dl-project)
 This project implements a deep learning-based system for the classification of kidney diseases using medical imaging. Built to assist healthcare professionals, the solution leverages convolutional neural networks (CNNs) to analyze and classify images efficiently and accurately.
 
