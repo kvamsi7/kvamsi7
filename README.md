@@ -1,6 +1,6 @@
 Hi there! 👋 
 
-I'm **Katam Vamsi Krishna**, a passionate **Machine Learning Engineer**. My primary areas of expertise include **Machine Learning (ML)**, **Natural Language Processing (NLP)**, and **Generative AI**. I am constantly exploring new technologies to solve complex real-world problems and improve user experiences through automation, optimization, and predictive modeling.
+I'm **Katam Vamsi Krishna**, a passionate **Machine Learning Engineer**. My primary areas of expertise include **Machine Learning (ML)**, **Natural Language Processing (NLP)**, and **Generative AI**. <!-- I am constantly exploring new technologies to solve complex real-world problems and improve user experiences through automation, optimization, and predictive modeling.
 
 ## 🔍 About Me
 
@@ -21,7 +21,7 @@ Here are some of the tools and technologies I've worked with:
 - **Databases & Retrieval**: SQL, FAISS, Chroma, ElasticSearch, Neo4j, Mongodb
 - **Big Data & Data Engineering**: Spark, Hadoop, DVC, Airflow  
 - **Data Visualization & BI Tools**: Matplotlib, Seaborn, Plotly, Tableau, Power BI  
-- **Version Control & CI/CD**: Git, GitHub Actions, Jenkins, GitLab CI/CD  
+- **Version Control & CI/CD**: Git, GitHub Actions, Jenkins, GitLab CI/CD   -->
 
 ## 🚀 Projects and Research Interest
 
