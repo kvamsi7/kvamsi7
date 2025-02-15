@@ -44,7 +44,7 @@ A **Large Language Model (LLM)-powered** book recommender system that integrates
 ### 1️⃣ [Book Recommendation System (LLM-based)](https://github.com/kvamsi7/recommendation-system/tree/main/book-recommender) *(Latest 🚀)*  
 An AI-powered personalized book recommender leveraging **zero-shot classification, similarity checks, and sentiment analysis**.  
 
-### 2️⃣ [End to End Complete Deep Learning Project with CI/CD pipeline](https://github.com/kvamsi7/kidney-disease-classification-dl-project)  
+### 2️⃣ [End to End Deep Learning Project with CI/CD pipeline](https://github.com/kvamsi7/kidney-disease-classification-dl-project)  
 A **CNN-based** medical imaging classifier to assist in **kidney disease detection**.  
 
 ### 3️⃣ [Evaluating Chain of Thought (CoT) Reasoning in LLMs](https://github.com/kvamsi7/llm_cot_research)  
