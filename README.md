@@ -19,7 +19,7 @@ A **Large Language Model (LLM)-powered** book recommender system that integrates
 
 ## 🔍 About Me  
 
-- **Current Focus**: Advancing **Large Language Models (LLMs)** for NLP, text generation, and AI-driven applications.  
+- **Current Focus**: Advancing **LLMs** for NLP, text generation, and AI-driven applications.  
 - **Experience**: 4+ years of hands-on experience designing, building, and deploying machine learning solutions.  
 - **Tech Stack**: Python, TensorFlow, PyTorch, Scikit-learn, AWS, SQL, Git, Flask, FastAPI.  
 - **Passion**: Exploring mechanistic interpretability of LLMs and integrating MLOps best practices into AI-driven applications.  
